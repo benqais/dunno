@@ -1,0 +1,4 @@
+selenium==3.141.0
+urllib3==1.26.7
+soupsieve==2.3.1
+webencodings==0.5.1
